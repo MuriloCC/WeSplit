@@ -74,10 +74,6 @@ struct ContentView: View {
 	}
 }
 
-func pressButton() {
-	print("apertei o botao")
-}
-
 struct ContentView_Previews: PreviewProvider {
 	static var previews: some View {
 		ContentView()
